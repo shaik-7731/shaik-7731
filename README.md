@@ -67,9 +67,6 @@
 - Built a Power BI dashboard tracking sales trends, product performance, and category-level insights
 - Created core KPIs (Total Revenue, Orders, Profit, Profit Margin) using DAX measures for real-time tracking
 - Identified top-performing products, seasonal demand patterns, and underperforming categories to support data-driven decisions
-
-> 💡 Replace the links above with the actual repo URLs once you push these projects to GitHub.
-
 ---
 
 ### 📈 GitHub Stats
@@ -90,9 +87,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/shaik-7731" alt="Contribution Graph" width="70%"/>
 </p>
-
-> ⚠️ These are still community-hosted, shared services, so any one card can occasionally be slow to load on first visit — refresh if that happens. If a specific card ever stops working long-term, the most reliable fix is self-hosting your own free copy on Vercel (takes ~5 min, happy to walk you through it anytime).
----
 
 ### 📫 Let's Connect
 
