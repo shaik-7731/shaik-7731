@@ -1,9 +1,15 @@
 <h1 align="center">Hi there, I'm Shaik Hussain 👋</h1>
-<h3 align="center">Data Analyst | Turning messy data into decision-ready insights</h3>
+
+<p align="center">
+  <a href="https://github.com/shaik-7731">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Turning+messy+data+into+decision-ready+insights;Python+%7C+SQL+%7C+Power+BI;Open+to+Entry-Level+Data+Analyst+Roles" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaik-hussain-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:skhussain7846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shaik-7731"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -69,13 +75,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaik-7731&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-7731&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaik-7731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-7731&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-7731&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=shaik-7731&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+> ⚠️ If any stat card shows broken on GitHub, just refresh the page once it's live in your repo — these are external live-generated images (github-readme-stats.vercel.app) and occasionally take a moment or hiccup on first load. They pull live data, so nothing to edit here.
 
 ---
 
