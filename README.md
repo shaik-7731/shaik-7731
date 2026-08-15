@@ -75,16 +75,23 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaik-7731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-7731&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaik-7731&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaik-7731&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaik-7731&theme=tokyonight" alt="Repos per Language"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaik-7731&theme=tokyonight" alt="Most Commit Language"/>
 </p>
 
-> ⚠️ If any stat card shows broken on GitHub, just refresh the page once it's live in your repo — these are external live-generated images (github-readme-stats.vercel.app) and occasionally take a moment or hiccup on first load. They pull live data, so nothing to edit here.
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shaik-7731&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/shaik-7731" alt="Contribution Graph" width="70%"/>
+</p>
+
+> ⚠️ These are still community-hosted, shared services, so any one card can occasionally be slow to load on first visit — refresh if that happens. If a specific card ever stops working long-term, the most reliable fix is self-hosting your own free copy on Vercel (takes ~5 min, happy to walk you through it anytime).
 ---
 
 ### 📫 Let's Connect
